@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -220,3 +221,13 @@ __marimo__/
 # Raw data — too large and not redistributable
 data/
 *.zip
+=======
+# Python 
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+venv/ 
+.env 
+data/ 
+*.zip 
+>>>>>>> Stashed changes
